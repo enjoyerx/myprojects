@@ -1,0 +1,15 @@
+E:\УНИВЕР\ТП\ProgrammingTechnology\AccountingSystem\AccountingSystem\AccountingSystem.Api\bin\Debug\netcoreapp2.1\AccountingSystem.Api.deps.json
+E:\УНИВЕР\ТП\ProgrammingTechnology\AccountingSystem\AccountingSystem\AccountingSystem.Api\bin\Debug\netcoreapp2.1\AccountingSystem.Api.runtimeconfig.json
+E:\УНИВЕР\ТП\ProgrammingTechnology\AccountingSystem\AccountingSystem\AccountingSystem.Api\bin\Debug\netcoreapp2.1\AccountingSystem.Api.runtimeconfig.dev.json
+E:\УНИВЕР\ТП\ProgrammingTechnology\AccountingSystem\AccountingSystem\AccountingSystem.Api\bin\Debug\netcoreapp2.1\AccountingSystem.Api.dll
+E:\УНИВЕР\ТП\ProgrammingTechnology\AccountingSystem\AccountingSystem\AccountingSystem.Api\bin\Debug\netcoreapp2.1\AccountingSystem.Api.pdb
+E:\УНИВЕР\ТП\ProgrammingTechnology\AccountingSystem\AccountingSystem\AccountingSystem.Api\bin\Debug\netcoreapp2.1\AccountingSystem.Api.xml
+E:\УНИВЕР\ТП\ProgrammingTechnology\AccountingSystem\AccountingSystem\AccountingSystem.Api\obj\Debug\netcoreapp2.1\AccountingSystem.Api.csprojAssemblyReference.cache
+E:\УНИВЕР\ТП\ProgrammingTechnology\AccountingSystem\AccountingSystem\AccountingSystem.Api\obj\Debug\netcoreapp2.1\AccountingSystem.Api.csproj.CoreCompileInputs.cache
+E:\УНИВЕР\ТП\ProgrammingTechnology\AccountingSystem\AccountingSystem\AccountingSystem.Api\obj\Debug\netcoreapp2.1\AccountingSystem.Api.RazorAssemblyInfo.cache
+E:\УНИВЕР\ТП\ProgrammingTechnology\AccountingSystem\AccountingSystem\AccountingSystem.Api\obj\Debug\netcoreapp2.1\AccountingSystem.Api.RazorAssemblyInfo.cs
+E:\УНИВЕР\ТП\ProgrammingTechnology\AccountingSystem\AccountingSystem\AccountingSystem.Api\obj\Debug\netcoreapp2.1\AccountingSystem.Api.AssemblyInfoInputs.cache
+E:\УНИВЕР\ТП\ProgrammingTechnology\AccountingSystem\AccountingSystem\AccountingSystem.Api\obj\Debug\netcoreapp2.1\AccountingSystem.Api.AssemblyInfo.cs
+E:\УНИВЕР\ТП\ProgrammingTechnology\AccountingSystem\AccountingSystem\AccountingSystem.Api\obj\Debug\netcoreapp2.1\AccountingSystem.Api.RazorTargetAssemblyInfo.cache
+E:\УНИВЕР\ТП\ProgrammingTechnology\AccountingSystem\AccountingSystem\AccountingSystem.Api\obj\Debug\netcoreapp2.1\AccountingSystem.Api.dll
+E:\УНИВЕР\ТП\ProgrammingTechnology\AccountingSystem\AccountingSystem\AccountingSystem.Api\obj\Debug\netcoreapp2.1\AccountingSystem.Api.pdb

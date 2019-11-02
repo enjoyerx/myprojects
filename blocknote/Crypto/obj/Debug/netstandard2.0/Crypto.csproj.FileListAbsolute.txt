@@ -1,0 +1,8 @@
+D:\KBRS\blocknote\Crypto\bin\Debug\netstandard2.0\Crypto.deps.json
+D:\KBRS\blocknote\Crypto\bin\Debug\netstandard2.0\Crypto.dll
+D:\KBRS\blocknote\Crypto\bin\Debug\netstandard2.0\Crypto.pdb
+D:\KBRS\blocknote\Crypto\obj\Debug\netstandard2.0\Crypto.csprojAssemblyReference.cache
+D:\KBRS\blocknote\Crypto\obj\Debug\netstandard2.0\Crypto.AssemblyInfoInputs.cache
+D:\KBRS\blocknote\Crypto\obj\Debug\netstandard2.0\Crypto.AssemblyInfo.cs
+D:\KBRS\blocknote\Crypto\obj\Debug\netstandard2.0\Crypto.dll
+D:\KBRS\blocknote\Crypto\obj\Debug\netstandard2.0\Crypto.pdb

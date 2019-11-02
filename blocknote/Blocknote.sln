@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blocknote", "Blocknote\Blocknote.csproj", "{95B0FE30-0658-47B8-BF8F-4E969BCDFDED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{7E84C866-F95B-4FE5-AC66-B80144596D99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crypto", "Crypto\Crypto.csproj", "{93332B0F-8986-466D-85B7-41F6E9A59B0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95B0FE30-0658-47B8-BF8F-4E969BCDFDED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95B0FE30-0658-47B8-BF8F-4E969BCDFDED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95B0FE30-0658-47B8-BF8F-4E969BCDFDED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95B0FE30-0658-47B8-BF8F-4E969BCDFDED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E84C866-F95B-4FE5-AC66-B80144596D99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E84C866-F95B-4FE5-AC66-B80144596D99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E84C866-F95B-4FE5-AC66-B80144596D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E84C866-F95B-4FE5-AC66-B80144596D99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93332B0F-8986-466D-85B7-41F6E9A59B0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93332B0F-8986-466D-85B7-41F6E9A59B0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93332B0F-8986-466D-85B7-41F6E9A59B0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93332B0F-8986-466D-85B7-41F6E9A59B0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80D7E7C1-1EF6-42CB-B34B-11D953E68FEB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+E:\C_GAME\C_GAME\bin\Debug\C_GAME.exe.config
+E:\C_GAME\C_GAME\obj\Debug\C_GAME.csprojResolveAssemblyReference.cache
+E:\C_GAME\C_GAME\bin\Debug\C_GAME.exe
+E:\C_GAME\C_GAME\bin\Debug\C_GAME.pdb
+E:\C_GAME\C_GAME\obj\Debug\C_GAME.exe
+E:\C_GAME\C_GAME\obj\Debug\C_GAME.pdb
+E:\UP\Furs Konstantin task7\C_GAME\bin\Debug\C_GAME.exe.config
+E:\UP\Furs Konstantin task7\C_GAME\obj\Debug\C_GAME.exe
+E:\UP\Furs Konstantin task7\C_GAME\obj\Debug\C_GAME.pdb
+E:\UP\Furs Konstantin task7\C_GAME\bin\Debug\C_GAME.exe
+E:\UP\Furs Konstantin task7\C_GAME\bin\Debug\C_GAME.pdb
+E:\UP\Furs Konstantin task7\C_GAME\obj\Debug\C_GAME.csprojResolveAssemblyReference.cache
